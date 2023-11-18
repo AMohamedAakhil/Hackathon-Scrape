@@ -1,4 +1,4 @@
-from utils.scrape import Scrape
+from scraper.scrape import Scrape
 import pprint
 pprint = pprint.PrettyPrinter(indent=4).pprint
 scraper = Scrape()
